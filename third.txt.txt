@@ -1,5 +1,6 @@
 hello world
-updated for reset
+
+working in view
 
 new changes
 
